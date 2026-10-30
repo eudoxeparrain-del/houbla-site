@@ -1,0 +1,17 @@
+{
+ "applinks": {
+  "details": [
+   {
+    "appIDs": [
+     "QPXX3M82GN.com.eudoxe.biere"
+    ],
+    "components": [
+     {
+      "/": "/b/*",
+      "comment": "La fiche d'une bi\u00e8re"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Houblà</title>
+<meta name="description" content="Houblà, l'app bière qui est de ton côté : scanne une bière, sache si elle va te plaire, et pourquoi.">
+<link rel="icon" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+  :root{--fond:#f7f4ee;--carte:#fff;--texte:#1d1512;--doux:#6b625c;--or:#E8B84A;--trait:#e6e1da}
+  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--fond:#151210;--carte:#211c19;--texte:#f3ece4;--doux:#a89e95;--trait:#332c27}}
+  :root[data-theme="dark"]{--fond:#151210;--carte:#211c19;--texte:#f3ece4;--doux:#a89e95;--trait:#332c27}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--fond);color:var(--texte);font:17px/1.6 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Arial,sans-serif}
+  main{max-width:640px;margin:0 auto;padding:56px 16px 64px;text-align:center}
+  .icone{width:120px;height:120px;border-radius:27px;box-shadow:0 10px 30px rgba(0,0,0,.16)}
+  h1{font-size:44px;letter-spacing:-1.4px;margin:22px 0 2px}
+  .chapo{font-size:20px;color:var(--doux);margin:0 0 34px}
+  .points{text-align:left;display:grid;gap:10px;margin:0 0 30px}
+  .point{background:var(--carte);border-radius:18px;padding:14px 18px}
+  .point b{display:block;font-size:17px}
+  .point span{color:var(--doux);font-size:15.5px}
+  .bientot{display:inline-block;background:var(--or);color:#2A2104;font-weight:700;border-radius:999px;padding:10px 20px;margin:4px 0 30px}
+  footer{color:var(--doux);font-size:14.5px}
+  footer a{color:inherit}
+  .moderation{font-size:13px;margin-top:10px}
+</style>
+</head>
+<body>
+<main>
+  <img class="icone" src="icone.png" alt="L'icône de Houblà">
+  <h1>Houblà</h1>
+  <p class="chapo">L'app bière qui est de ton côté.</p>
+
+  <div class="points">
+    <div class="point"><b>Scanne une bière</b><span>Tu sais tout de suite si elle va te plaire, et pourquoi.</span></div>
+    <div class="point"><b>Note-la</b><span>Ta forme de goût se dessine, et te ressemble de plus en plus.</span></div>
+    <div class="point"><b>Découvre</b><span>Des bières et des types de bière faits pour toi. Zéro pub, zéro contenu payé.</span></div>
+  </div>
+
+  <span class="bientot">Bientôt sur iPhone</span>
+
+  <footer>
+    <a href="confidentialite.html">Confidentialité</a> · <a href="mailto:contact@houbla.fr">contact@houbla.fr</a>
+    <p class="moderation">Réservée aux personnes de 18 ans et plus. L'abus d'alcool est dangereux pour la santé, à consommer avec modération.</p>
+  </footer>
+</main>
+</body>
+</html>
