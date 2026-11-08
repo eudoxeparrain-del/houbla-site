@@ -2,49 +2,36 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Houblà</title>
-<meta name="description" content="Houblà, l'app bière qui est de ton côté : scanne une bière, sache si elle va te plaire, et pourquoi.">
-<link rel="icon" href="favicon.png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<style>
-  :root{--fond:#f7f4ee;--carte:#fff;--texte:#1d1512;--doux:#6b625c;--or:#E8B84A;--trait:#e6e1da}
-  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--fond:#151210;--carte:#211c19;--texte:#f3ece4;--doux:#a89e95;--trait:#332c27}}
-  :root[data-theme="dark"]{--fond:#151210;--carte:#211c19;--texte:#f3ece4;--doux:#a89e95;--trait:#332c27}
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--fond);color:var(--texte);font:17px/1.6 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Arial,sans-serif}
-  main{max-width:640px;margin:0 auto;padding:56px 16px 64px;text-align:center}
-  .icone{width:120px;height:120px;border-radius:27px;box-shadow:0 10px 30px rgba(0,0,0,.16)}
-  h1{font-size:44px;letter-spacing:-1.4px;margin:22px 0 2px}
-  .chapo{font-size:20px;color:var(--doux);margin:0 0 34px}
-  .points{text-align:left;display:grid;gap:10px;margin:0 0 30px}
-  .point{background:var(--carte);border-radius:18px;padding:14px 18px}
-  .point b{display:block;font-size:17px}
-  .point span{color:var(--doux);font-size:15.5px}
-  .bientot{display:inline-block;background:var(--or);color:#2A2104;font-weight:700;border-radius:999px;padding:10px 20px;margin:4px 0 30px}
-  footer{color:var(--doux);font-size:14.5px}
-  footer a{color:inherit}
-  .moderation{font-size:13px;margin-top:10px}
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Houblà · l'app bière qui est de ton côté</title>
+<meta name="description" content="Houblà, l'app bière qui est de ton côté : scanne une bière, sache si elle va te plaire, et pourquoi. Fais le test : ta forme de goût, et trois bières pour toi.">
+<meta property="og:title" content="Houblà · Quelle bière pour toi ?">
+<meta property="og:description" content="Six questions, une minute : Houblà dessine ta forme de goût et te propose trois bières à essayer.">
+<meta property="og:site_name" content="Houblà">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://houbla.fr/">
+<meta property="og:image" content="https://houbla.fr/icone.png">
+<meta name="theme-color" content="#E8B84A">
+<link rel="icon" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/b.css?v=d4315f78a8">
+<style>:root{--robe:#E8B84A;--sur:#2A2104;--forme:#FFF8E6;--anneau:rgba(42,33,4,.16);--pale:rgba(42,33,4,.55);--puce:rgba(255,255,255,.55)}</style>
 </head>
-<body>
-<main>
-  <img class="icone" src="icone.png" alt="L'icône de Houblà">
-  <h1>Houblà</h1>
-  <p class="chapo">L'app bière qui est de ton côté.</p>
-
-  <div class="points">
-    <div class="point"><b>Scanne une bière</b><span>Tu sais tout de suite si elle va te plaire, et pourquoi.</span></div>
-    <div class="point"><b>Note-la</b><span>Ta forme de goût se dessine, et te ressemble de plus en plus.</span></div>
-    <div class="point"><b>Découvre</b><span>Des bières et des types de bière faits pour toi. Zéro pub, zéro contenu payé.</span></div>
-  </div>
-
-  <span class="bientot">Bientôt sur iPhone</span>
-
-  <footer>
-    <a href="confidentialite.html">Confidentialité</a> · <a href="mailto:contact@houbla.fr">contact@houbla.fr</a>
-    <p class="moderation">Réservée aux personnes de 18 ans et plus. L'abus d'alcool est dangereux pour la santé, à consommer avec modération.</p>
-  </footer>
+<body class="accueil">
+<section class="carte"><div class="barre"><span class="marque">Houblà</span><span></span></div>
+<img class="icone monte" src="/icone.png" alt="L'icône de Houblà" width="96" height="96">
+<h1 class="monte" style="--i:1">Houblà</h1>
+<p class="brasserie monte" style="--i:2">L'app bière qui est de ton côté.</p>
+</section><svg class="surface" viewBox="0 0 390 18" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0L0 7.6L4 8.0L8 8.3L12 8.6L16 8.8L20 8.9L24 8.9L28 8.9L32 8.9L36 8.9L40 8.8L44 8.8L48 8.8L52 8.8L56 8.8L60 8.9L64 8.9L68 8.9L72 8.9L76 8.9L80 8.8L84 8.7L88 8.4L92 8.1L96 7.8L100 7.4L104 6.9L108 6.4L112 5.9L116 5.4L120 5.0L124 4.6L128 4.3L132 4.1L136 3.9L140 3.9L144 4.0L148 4.2L152 4.4L156 4.7L160 5.0L164 5.3L168 5.7L172 6.0L176 6.3L180 6.5L184 6.7L188 6.9L192 7.0L196 7.1L200 7.3L204 7.4L208 7.5L212 7.7L216 7.9L220 8.1L224 8.4L228 8.7L232 8.9L236 9.2L240 9.5L244 9.7L248 9.9L252 10.0L256 10.0L260 9.9L264 9.7L268 9.4L272 9.0L276 8.6L280 8.1L284 7.6L288 7.1L292 6.6L296 6.1L300 5.7L304 5.4L308 5.1L312 5.0L316 4.9L320 4.8L324 4.9L328 4.9L332 5.0L336 5.1L340 5.2L344 5.2L348 5.3L352 5.3L356 5.3L360 5.3L364 5.3L368 5.3L372 5.4L376 5.5L380 5.6L384 5.8L388 6.1L392 6.5L394 0Z"/></svg><main>
+<section id="test" class="test monte" style="--i:3" aria-live="polite" hidden></section>
+<div class="bloc monte" style="--i:4"><b>Scanne une bière</b><p>Tu sais tout de suite si elle va te plaire, et pourquoi.</p></div>
+<div class="bloc monte" style="--i:5"><b>Note-la</b><p>Ta forme de goût se dessine, et te ressemble de plus en plus.</p></div>
+<div class="bloc monte" style="--i:6"><b>Découvre</b><p>Des bières et des types de bière faits pour toi. Zéro pub, zéro contenu payé.</p></div>
+<div class="houbla monte" style="--i:7"><img src="/apple-touch-icon.png" alt="" width="52" height="52"><div><b>Bientôt sur iPhone</b>
+<p>L'app bière qui te dit si une bière va te plaire, et pourquoi.</p></div></div>
 </main>
+<footer><a href="/confidentialite.html">Confidentialité</a> · <a href="mailto:contact@houbla.fr">contact@houbla.fr</a>
+<br>Réservée aux 18 ans et plus. L'abus d'alcool est dangereux pour la santé, à consommer avec modération.</footer>
+<script src="/b.js?v=da8c73b897" defer></script>
 </body>
 </html>

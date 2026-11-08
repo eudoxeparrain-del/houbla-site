@@ -2,19 +2,21 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Houblà</title>
+<meta name="theme-color" content="#E8B84A">
 <link rel="icon" href="/favicon.png">
-<link rel="stylesheet" href="/b.css">
-<style>:root{--robe:#E8B84A;--sur:#2A2104}</style>
+<link rel="stylesheet" href="/b.css?v=d4315f78a8">
+<style>:root{--robe:#E8B84A;--sur:#2A2104;--anneau:rgba(42,33,4,.16)}</style>
 </head>
 <body>
-<section class="carte"><div class="haut"><a class="marque" href="/">Houblà</a><span></span></div>
-<h1 style="margin-top:28px">Une bière partagée avec Houblà</h1>
-<p class="brasserie">Cette bière n'a pas encore sa page ici, mais l'app la connaît.</p></section>
+<section class="carte"><div class="barre"><a class="marque" href="/">Houblà</a><span></span></div>
+<h1 class="monte" style="margin:34px auto 6px">Une bière partagée avec Houblà</h1>
+<p class="brasserie monte" style="--i:1;margin-bottom:22px">Cette bière n'a pas encore sa page ici, mais l'app la connaît.</p></section>
 <main>
-<a class="ouvrir" id="ouvrir" href="/">Ouvrir dans Houblà</a>
-<p class="bientot">Pas encore Houblà ? L'app arrive bientôt sur iPhone : elle te dit si une bière va te plaire, et pourquoi.</p>
+<div class="houbla monte" style="--i:2"><img src="/apple-touch-icon.png" alt="" width="52" height="52"><div><b>Houblà</b>
+<p>L'app bière qui te dit si une bière va te plaire, et pourquoi. Bientôt sur iPhone.</p></div></div>
+<a class="dejala" id="ouvrir" href="/">Tu as déjà Houblà ? <u>Ouvrir dans l'app</u></a>
 </main>
 <script>
   var m = location.pathname.match(/^\/b\/([a-z0-9-]+)\/?$/);
