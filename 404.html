@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Houblà</title>
+<link rel="icon" href="/favicon.png">
+<link rel="stylesheet" href="/b.css">
+<style>:root{--robe:#E8B84A;--sur:#2A2104}</style>
+</head>
+<body>
+<section class="carte"><div class="haut"><a class="marque" href="/">Houblà</a><span></span></div>
+<h1 style="margin-top:28px">Une bière partagée avec Houblà</h1>
+<p class="brasserie">Cette bière n'a pas encore sa page ici, mais l'app la connaît.</p></section>
+<main>
+<a class="ouvrir" id="ouvrir" href="/">Ouvrir dans Houblà</a>
+<p class="bientot">Pas encore Houblà ? L'app arrive bientôt sur iPhone : elle te dit si une bière va te plaire, et pourquoi.</p>
+</main>
+<script>
+  var m = location.pathname.match(/^\/b\/([a-z0-9-]+)\/?$/);
+  if (m) document.getElementById('ouvrir').href = 'houbla://b/' + m[1];
+</script>
+<footer><a href="/">Houblà</a> · l'app bière qui est de ton côté · <a href="/confidentialite.html">Confidentialité</a>
+<br>Réservée aux 18 ans et plus. L'abus d'alcool est dangereux pour la santé, à consommer avec modération.</footer>
+</body>
+</html>
