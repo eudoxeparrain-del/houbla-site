@@ -207,3 +207,27 @@ footer{text-align:center;color:#8E8E93;font-size:12px;line-height:1.5;padding:14
 .tuile-biere .txt span{display:block;font-size:13px;opacity:.78;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .tuile-biere .pc{flex:none;font-weight:800;font-size:18px;font-variant-numeric:tabular-nums}
 @media (prefers-reduced-motion:reduce){.envoi{animation:none}}
+/* L'accueil : l'app en images (point 19), une rangée qu'on fait glisser, chaque image se cale au milieu. */
+.vitrine{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;margin:16px -16px 6px;padding:2px 16px 10px;scrollbar-width:none;overscroll-behavior-x:contain}
+.vitrine::-webkit-scrollbar{display:none}
+.vitrine img{flex:0 0 auto;width:min(64vw,250px);height:auto;border-radius:20px;scroll-snap-align:center;box-shadow:0 6px 18px rgba(0,0,0,.14)}
+
+/* LES TROIS ÉTAPES DE L'ACCUEIL, EN DESSINS ANIMÉS (son choix A, 2026-11-08) */
+.etape{display:flex;gap:14px;align-items:center;background:#fff;border-radius:20px;padding:12px 14px 12px 12px;margin:0 0 10px}
+.etape .dessin{flex:none;width:76px;height:76px;border-radius:18px;overflow:hidden}
+.etape b{display:block;font-size:17px}
+.etape p{margin:3px 0 0;color:#5A5A60;font-size:15px;line-height:1.4}
+.etape .num{display:inline-block;font-size:12px;font-weight:800;color:#2A2104;background:#F6E7BF;border-radius:9px;padding:0 7px;margin-bottom:3px}
+.etape .niveau{animation:etapeMonte 1.6s cubic-bezier(.2,.8,.25,1) both;animation-delay:.5s}
+.etape .niveau.n1{transform:translateY(52px)}
+.etape .niveau.n2{transform:translateY(24px)}
+.etape .houle{animation:etapeHoule 3.2s linear infinite}
+.etape .houle.lente{animation-duration:4.4s}
+.etape .bulle{transform-box:fill-box;animation:etapeBulle 2.6s ease-in infinite}
+.etape .bulle.b2{animation-delay:1.2s}
+.etape .respire{transform-origin:40px 40px;animation:etapeRespire 7s ease-in-out infinite}
+@keyframes etapeMonte{from{transform:translateY(80px)}}
+@keyframes etapeHoule{to{transform:translateX(40px)}}
+@keyframes etapeBulle{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(-34px);opacity:0}}
+@keyframes etapeRespire{0%,100%{transform:rotate(-3deg) scale(.97)}50%{transform:rotate(3deg) scale(1.03)}}
+@media (prefers-reduced-motion:reduce){.etape .niveau,.etape .houle,.etape .bulle,.etape .respire{animation:none}}
