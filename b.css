@@ -231,3 +231,44 @@ footer{text-align:center;color:#8E8E93;font-size:12px;line-height:1.5;padding:14
 @keyframes etapeBulle{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(-34px);opacity:0}}
 @keyframes etapeRespire{0%,100%{transform:rotate(-3deg) scale(.97)}50%{transform:rotate(3deg) scale(1.03)}}
 @media (prefers-reduced-motion:reduce){.etape .niveau,.etape .houle,.etape .bulle,.etape .respire{animation:none}}
+
+/* ——— NOTER UNE BIÈRE (l'appli web, 2026-11-10) : « Le niveau » du check-in de l'app ——— */
+.ecran-note{background:#F2F2F7;color:#111114}
+.vue.note{display:flex;flex-direction:column;padding-top:calc(44px + env(safe-area-inset-top))}
+.note-tete{flex:none;text-align:center;padding:4px 22px 0;position:relative;z-index:2;pointer-events:none}
+.note-nom{margin:0;font-size:24px;font-weight:800;letter-spacing:-.5px;line-height:1.12}
+.note-sous{margin:3px 0 0;font-size:14px;color:#6C6C70}
+.note-chiffre{margin:8px 0 0;font-weight:800;line-height:1;font-variant-numeric:tabular-nums}
+.note-chiffre .n{font-size:64px;letter-spacing:-2.5px}
+.note-chiffre small{font-size:17px;font-weight:600;color:#8E8E93;margin-left:6px;letter-spacing:0}
+.note-aide{margin:6px 0 0;font-size:14.5px;color:#6C6C70;transition:opacity .4s}
+.note-aide.partie{opacity:0}
+.note-zone{flex:1;min-height:200px;position:relative;touch-action:none;cursor:ns-resize;outline:none;-webkit-tap-highlight-color:transparent}
+.note-zone svg{position:absolute;left:0;top:0}
+.note-zone:focus-visible{box-shadow:inset 0 0 0 2px #111114}
+.note-bas{flex:none;padding:10px 16px calc(10px + env(safe-area-inset-bottom));display:flex;flex-direction:column;align-items:center;gap:4px;max-width:560px;width:100%;margin:0 auto;position:relative;z-index:2}
+.note-bas .confirmer{background:#1C1C1E;color:#fff}
+.note-bas .lien{font-size:14px}
+.vue.note .note-zone{transition:opacity .5s}
+.vue.note.fini .note-zone{opacity:0;pointer-events:none}
+.vue.note.fini .note-chiffre,.vue.note.fini .note-aide{display:none}
+.vue.note.fini .note-tete{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.vue.note.fini .note-zone{position:absolute;inset:auto 0 0;height:40%}
+.note-apres{margin-top:10px}
+.note-apres svg{display:block;margin:0 auto}
+.note-phrase{font-size:18px;font-weight:650;line-height:1.38;margin:12px 6px 0;max-width:420px}
+.note-legende{font-size:13px;color:#6C6C70;margin:8px 0 0;display:flex;align-items:center;justify-content:center;gap:7px}
+.note-legende i{display:inline-block;width:22px;border-top:2px dashed rgba(17,17,20,.45)}
+
+/* Sur la carte du match : ta note, ou « Noter cette bière ». */
+.test .noter{color:#111114}
+.ta-note-ligne{display:flex;align-items:center;gap:10px;margin:12px 0 0;padding:10px 12px;border-radius:16px;background:#F2F2F7}
+.ta-note-ligne svg{flex:none}
+.ta-note-ligne span{flex:1;min-width:0}
+.ta-note-ligne b{display:block;font-size:16px}
+.ta-note-ligne small{display:block;font-size:13px;color:#6C6C70;text-transform:none;letter-spacing:0;font-weight:500;margin:0}
+.ta-note-ligne .lien{flex:none}
+
+/* Une page de bière ouverte depuis l'appli : on revient à l'appli, on ne parle pas de l'iPhone. */
+.retour-appli{display:inline-flex;align-items:center;gap:7px}
+.dans-appli .houbla,.dans-appli .dejala{display:none}

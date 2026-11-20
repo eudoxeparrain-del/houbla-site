@@ -1,4 +1,4 @@
-window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"questions":[{"haut":{"mot":"Citron","couleur":"#EFD469","sur":"#2A2203","inverse":"#FFF8DB","sombre":false,"effets":[-0.3,0,1.5,0.5,0,0,-0.8,0,0,0,0,0,1.2,0]},"bas":{"mot":"Café","couleur":"#1D1512","sur":"#F3E9DC","inverse":"#1D1512","sombre":true,"effets":[1,0,-0.6,0,0,0.4,1.8,0,0,0,0,0,-0.5,0]}},{"haut":{"mot":"Fruits","couleur":"#8E1B2D","sur":"#F3E9DC","inverse":"#8E1B2D","sombre":true,"effets":[0,0,0.5,1,0.6,-0.5,0,0,0,0,0,0,0.5,1]},"bas":{"mot":"Caramel","couleur":"#C4722A","sur":"#2A1503","inverse":"#FFECDB","sombre":false,"effets":[0,0,0,0,0.8,1.8,0.3,0.5,0,0,0,0,-0.4,0]}},{"haut":{"mot":"Herbes\nfraîches","couleur":"#8FA35A","sur":"#1F2A03","inverse":"#F5FFDB","sombre":false,"effets":[0.4,1.6,0.3,0,0,0,0,0,0,0,-0.3,-0.3,0,0]},"bas":{"mot":"Épices","couleur":"#9C4A1A","sur":"#F3E9DC","inverse":"#9C4A1A","sombre":true,"effets":[0,-0.4,0,0,0.2,0,0,0,0,0,1.6,1,0,0]}},{"haut":{"mot":"Chocolat\nau lait","couleur":"#8B5A2B","sur":"#F3E9DC","inverse":"#8B5A2B","sombre":true,"effets":[-0.8,0,0,0,1,0.5,0,0.8,0,0,0,0,0,0]},"bas":{"mot":"Chocolat\nnoir","couleur":"#1D1512","sur":"#F3E9DC","inverse":"#1D1512","sombre":true,"effets":[1.5,0.5,0,0,-0.8,0,0.8,0,0,0,0,0,0,0]}},{"haut":{"mot":"Acidulé","couleur":"#D24F68","sur":"#2A030A","inverse":"#FFDBE2","sombre":false,"effets":[0,0,0.3,0,-0.2,0,0,0,0,-0.3,0,0,1.6,0.8]},"bas":{"mot":"Boisé","couleur":"#7B4A2A","sur":"#F3E9DC","inverse":"#7B4A2A","sombre":true,"effets":[0,0,0,0,0.3,0.4,0.3,0,0,1.8,0,0,-0.4,0]}},{"haut":{"mot":"Léger\net frais","couleur":"#F4E3A1","sur":"#2A2203","inverse":"#FFF8DB","sombre":false,"effets":[0,0,0.4,0,0,0,0,-1.2,-1.2,0,0,0.2,0.5,0]},"bas":{"mot":"Rond\net puissant","couleur":"#6A3B1F","sur":"#F3E9DC","inverse":"#6A3B1F","sombre":true,"effets":[0,0,0,0,0.4,0,0,1.5,1.5,0.6,0.3,0,0,0]}}],"classiques":[{"slug":"heineken","nom":"Heineken","type":"Pils","brasserie":"Heineken","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[2.5,3,0.2,1,0.1,0.3,0,1.5,2.08,0,0.1,0,0.1,0],"estimee":false},{"slug":"guinness","nom":"Guinness","type":"Stout","brasserie":"Guinness","robe":"#1D1512","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[2.5,0,0,0,1,1.5,4.5,3,1.75,0.1,0.1,0,0.5,0],"estimee":false},{"slug":"leffe-blonde","nom":"Leffe Blonde","type":"Blonde belge","brasserie":"Leffe","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[2,0.3,0.2,1,0.2,4,0,2.5,2.75,0,3,0,0,0],"estimee":false},{"slug":"hoegaarden","nom":"Hoegaarden","type":"Blanche","brasserie":"Hoegaarden","robe":"#F2DE8E","sur":"#2A2203","forme":"#FFFBEB","sombre":false,"valeurs":[1,0.2,3,0.1,0.2,0.2,0,2,2.04,0,3,0.1,0.2,0],"estimee":false},{"slug":"punk-ipa","nom":"Punk IPA","type":"IPA","brasserie":"BrewDog","robe":"#E9AD47","sur":"#2A1C03","forme":"#FFF8EB","sombre":false,"valeurs":[3,1.5,3.5,3.5,0.1,2,0,1.5,2.25,0,0.1,0,0,0],"estimee":false},{"slug":"chimay-bleue","nom":"Chimay Bleue","type":"Quadrupel","brasserie":"Chimay","robe":"#6A3B1F","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[1.5,0.1,0,0.5,2,3.5,2.5,3.5,3.75,0.3,2.5,3,0.1,0.2],"estimee":false},{"slug":"desperados","nom":"Desperados","type":"Bière aromatisée","brasserie":"Heineken","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[1.5,0,2,0.1,0.2,0,0,3,2.46,0,1,0,0,0],"estimee":false},{"slug":"chouffe","nom":"Chouffe","type":"Blonde forte","brasserie":"Brasserie d'Achouffe","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[1,3,4,0.3,0.3,0.4,0,3,3.33,0.1,3,0.1,0,0],"estimee":false},{"slug":"mort-subite-kriek","nom":"Mort Subite Kriek","type":"Kriek","brasserie":"Mort Subite","robe":"#8E1B2D","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[0.5,0,0,0,0.4,0.1,0,1.5,1.88,0.1,0.1,0,2.5,4],"estimee":false},{"slug":"paulaner-hefe-weissbier","nom":"Paulaner Hefe-Weissbier","type":"Weizen","brasserie":"Paulaner","robe":"#E9AD47","sur":"#2A1C03","forme":"#FFF8EB","sombre":false,"valeurs":[1,0.1,0.2,1.5,1.5,1,0,2.5,2.29,0,0.3,4,0.1,0],"estimee":false},{"slug":"kwak","nom":"Kwak","type":"Ambrée","brasserie":"Bosteels","robe":"#C97A2D","sur":"#2A1603","forme":"#FFF5EB","sombre":false,"valeurs":[1.5,0.1,1.5,0.1,1,3.5,0.2,3,3.5,0.1,2,2.5,0,0.1],"estimee":false},{"slug":"corona","nom":"Corona","type":"Pils","brasserie":"Grupo Modelo","robe":"#F2DE8E","sur":"#2A2203","forme":"#FFFBEB","sombre":false,"valeurs":[1.5,0.3,0.2,1,2.5,3,0,1.5,1.88,0,0.1,0,0.1,0],"estimee":false},{"slug":"tripel-karmeliet","nom":"Tripel Karmeliet","type":"Triple","brasserie":"Bosteels","robe":"#E9AD47","sur":"#2A1C03","forme":"#FFF8EB","sombre":false,"valeurs":[2,1,3,0.2,2,2,0,3,3.5,0,2.5,1,0,0],"estimee":false},{"slug":"pelforth-brune","nom":"Pelforth Brune","type":"Brune","brasserie":"Pelforth","robe":"#6A3B1F","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[1,0.1,0,0.1,2.5,3.5,2.5,3,2.71,0.1,1,0,1,0.1],"estimee":false}],"aromes":["Amer","Résineux","Agrumes","Tropical","Sucré","Caramel","Torréfié","Rond","Puissant","Boisé","Épices","Levure","Acide","Fruits rouges"],"index":"/bieres.json?v=bf052b79cb"};
+window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"questions":[{"haut":{"mot":"Citron","couleur":"#EFD469","sur":"#2A2203","inverse":"#FFF8DB","sombre":false,"effets":[-0.3,0,1.5,0.5,0,0,-0.8,0,0,0,0,0,1.2,0]},"bas":{"mot":"Café","couleur":"#1D1512","sur":"#F3E9DC","inverse":"#1D1512","sombre":true,"effets":[1,0,-0.6,0,0,0.4,1.8,0,0,0,0,0,-0.5,0]}},{"haut":{"mot":"Fruits","couleur":"#8E1B2D","sur":"#F3E9DC","inverse":"#8E1B2D","sombre":true,"effets":[0,0,0.5,1,0.6,-0.5,0,0,0,0,0,0,0.5,1]},"bas":{"mot":"Caramel","couleur":"#C4722A","sur":"#2A1503","inverse":"#FFECDB","sombre":false,"effets":[0,0,0,0,0.8,1.8,0.3,0.5,0,0,0,0,-0.4,0]}},{"haut":{"mot":"Herbes\nfraîches","couleur":"#8FA35A","sur":"#1F2A03","inverse":"#F5FFDB","sombre":false,"effets":[0.4,1.6,0.3,0,0,0,0,0,0,0,-0.3,-0.3,0,0]},"bas":{"mot":"Épices","couleur":"#9C4A1A","sur":"#F3E9DC","inverse":"#9C4A1A","sombre":true,"effets":[0,-0.4,0,0,0.2,0,0,0,0,0,1.6,1,0,0]}},{"haut":{"mot":"Chocolat\nau lait","couleur":"#8B5A2B","sur":"#F3E9DC","inverse":"#8B5A2B","sombre":true,"effets":[-0.8,0,0,0,1,0.5,0,0.8,0,0,0,0,0,0]},"bas":{"mot":"Chocolat\nnoir","couleur":"#1D1512","sur":"#F3E9DC","inverse":"#1D1512","sombre":true,"effets":[1.5,0.5,0,0,-0.8,0,0.8,0,0,0,0,0,0,0]}},{"haut":{"mot":"Acidulé","couleur":"#D24F68","sur":"#2A030A","inverse":"#FFDBE2","sombre":false,"effets":[0,0,0.3,0,-0.2,0,0,0,0,-0.3,0,0,1.6,0.8]},"bas":{"mot":"Boisé","couleur":"#7B4A2A","sur":"#F3E9DC","inverse":"#7B4A2A","sombre":true,"effets":[0,0,0,0,0.3,0.4,0.3,0,0,1.8,0,0,-0.4,0]}},{"haut":{"mot":"Léger\net frais","couleur":"#F4E3A1","sur":"#2A2203","inverse":"#FFF8DB","sombre":false,"effets":[0,0,0.4,0,0,0,0,-1.2,-1.2,0,0,0.2,0.5,0]},"bas":{"mot":"Rond\net puissant","couleur":"#6A3B1F","sur":"#F3E9DC","inverse":"#6A3B1F","sombre":true,"effets":[0,0,0,0,0.4,0,0,1.5,1.5,0.6,0.3,0,0,0]}}],"classiques":[{"slug":"heineken","nom":"Heineken","type":"Pils","brasserie":"Heineken","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[2.5,3,0.2,1,0.1,0.3,0,1.5,2.08,0,0.1,0,0.1,0],"estimee":false},{"slug":"guinness","nom":"Guinness","type":"Stout","brasserie":"Guinness","robe":"#1D1512","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[2.5,0,0,0,1,1.5,4.5,3,1.75,0.1,0.1,0,0.5,0],"estimee":false},{"slug":"leffe-blonde","nom":"Leffe Blonde","type":"Blonde belge","brasserie":"Leffe","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[2,0.3,0.2,1,0.2,4,0,2.5,2.75,0,3,0,0,0],"estimee":false},{"slug":"hoegaarden","nom":"Hoegaarden","type":"Blanche","brasserie":"Hoegaarden","robe":"#F2DE8E","sur":"#2A2203","forme":"#FFFBEB","sombre":false,"valeurs":[1,0.2,3,0.1,0.2,0.2,0,2,2.04,0,3,0.1,0.2,0],"estimee":false},{"slug":"punk-ipa","nom":"Punk IPA","type":"IPA","brasserie":"BrewDog","robe":"#E9AD47","sur":"#2A1C03","forme":"#FFF8EB","sombre":false,"valeurs":[3,1.5,3.5,3.5,0.1,2,0,1.5,2.25,0,0.1,0,0,0],"estimee":false},{"slug":"chimay-bleue","nom":"Chimay Bleue","type":"Quadrupel","brasserie":"Chimay","robe":"#6A3B1F","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[1.5,0.1,0,0.5,2,3.5,2.5,3.5,3.75,0.3,2.5,3,0.1,0.2],"estimee":false},{"slug":"desperados","nom":"Desperados","type":"Bière aromatisée","brasserie":"Heineken","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[1.5,0,2,0.1,0.2,0,0,3,2.46,0,1,0,0,0],"estimee":false},{"slug":"chouffe","nom":"Chouffe","type":"Blonde forte","brasserie":"Brasserie d'Achouffe","robe":"#EECE63","sur":"#2A2103","forme":"#FFFAEB","sombre":false,"valeurs":[1,3,4,0.3,0.3,0.4,0,3,3.33,0.1,3,0.1,0,0],"estimee":false},{"slug":"mort-subite-kriek","nom":"Mort Subite Kriek","type":"Kriek","brasserie":"Mort Subite","robe":"#8E1B2D","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[0.5,0,0,0,0.4,0.1,0,1.5,1.88,0.1,0.1,0,2.5,4],"estimee":false},{"slug":"paulaner-hefe-weissbier","nom":"Paulaner Hefe-Weissbier","type":"Weizen","brasserie":"Paulaner","robe":"#E9AD47","sur":"#2A1C03","forme":"#FFF8EB","sombre":false,"valeurs":[1,0.1,0.2,1.5,1.5,1,0,2.5,2.29,0,0.3,4,0.1,0],"estimee":false},{"slug":"kwak","nom":"Kwak","type":"Ambrée","brasserie":"Bosteels","robe":"#C97A2D","sur":"#2A1603","forme":"#FFF5EB","sombre":false,"valeurs":[1.5,0.1,1.5,0.1,1,3.5,0.2,3,3.5,0.1,2,2.5,0,0.1],"estimee":false},{"slug":"corona","nom":"Corona","type":"Pils","brasserie":"Grupo Modelo","robe":"#F2DE8E","sur":"#2A2203","forme":"#FFFBEB","sombre":false,"valeurs":[1.5,0.3,0.2,1,2.5,3,0,1.5,1.88,0,0.1,0,0.1,0],"estimee":false},{"slug":"tripel-karmeliet","nom":"Tripel Karmeliet","type":"Triple","brasserie":"Bosteels","robe":"#E9AD47","sur":"#2A1C03","forme":"#FFF8EB","sombre":false,"valeurs":[2,1,3,0.2,2,2,0,3,3.5,0,2.5,1,0,0],"estimee":false},{"slug":"pelforth-brune","nom":"Pelforth Brune","type":"Brune","brasserie":"Pelforth","robe":"#6A3B1F","sur":"#F3E9DC","forme":"#F3E9DC","sombre":true,"valeurs":[1,0.1,0,0.1,2.5,3.5,2.5,3,2.71,0.1,1,0,1,0.1],"estimee":false}],"aromes":["Amer","Résineux","Agrumes","Tropical","Sucré","Caramel","Torréfié","Rond","Puissant","Boisé","Épices","Levure","Acide","Fruits rouges"],"familles":{"Pils":"Blondes et lagers","Helles":"Blondes et lagers","Kölsch":"Blondes et lagers","Märzen":"Blondes et lagers","Blanche":"Blanches et bières de blé","Weizen":"Blanches et bières de blé","Session IPA":"Houblonnées","Pale ale":"Houblonnées","IPA":"Houblonnées","NEIPA":"Houblonnées","Double IPA":"Houblonnées","Black IPA":"Houblonnées","Saison":"Belges et bières de ferme","Blonde belge":"Belges et bières de ferme","Blonde forte":"Belges et bières de ferme","Bière de garde":"Belges et bières de ferme","Triple":"Bières d'abbaye","Dubbel":"Bières d'abbaye","Quadrupel":"Bières d'abbaye","Bitter":"Ambrées et brunes","Ambrée":"Ambrées et brunes","Brune":"Ambrées et brunes","Scotch ale":"Ambrées et brunes","Barley wine":"Ambrées et brunes","Porter":"Noires","Stout":"Noires","Stout impérial":"Noires","Berliner Weisse":"Acides et fruitées","Gose":"Acides et fruitées","Aux fruits":"Acides et fruitées","Gueuze":"Acides et fruitées","Kriek":"Acides et fruitées","Rouge des Flandres":"Acides et fruitées"},"index":"/bieres.json?v=10f8c94acd","codes":"/codes.json?v=4a0bf21092"};
 /* LA PAGE D'UNE BIÈRE PARTAGÉE (houbla.fr/b/…) : la houle des formes, et LE TEST — les six questions du premier écran
    de l'app, puis « ta bière préférée », puis ton match avec cette bière (Eudoxe, 2026-11-08 : « ajouter le test de début
    pour comparer sa forme, avec en question à la fin “ma bière préférée” ; ça donne la forme et superpose les autres, comme
@@ -27,6 +27,15 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
      la forme de ta préférée. Ton trait change de couleur quand il passe DANS une forme pleine ; une bière pâle a un contour ;
      ta préférée, quand on la montre, a SA couleur. Banc des photos : ?apercu=resultat rouvre ton résultat (s'il est gardé). */
   var REQ = new URLSearchParams(location.search);
+  /* L'APPLI WEB (houbla.fr/appli/, 2026-11-10, pour ses amis sur Android) : `body.appli`. Elle se sert des outils de cette
+     page (le test, le match, la note) par window.HoublaOutils ; une page de bière ouverte depuis elle (ou depuis l'appli
+     posée sur l'écran d'accueil) garde un chemin de retour vers elle. */
+  var APP = doc.body.classList.contains("appli");
+  var DANS_APPLI = false;
+  try {
+    DANS_APPLI = !APP && ((window.matchMedia && matchMedia("(display-mode: standalone)").matches)
+                          || sessionStorage.getItem("houbla.appli") === "1");
+  } catch (e) { /* navigation privée */ }
 
   // ——— Les nombres ———
   function borne(x, a, b) { return Math.min(Math.max(x, a), b); }
@@ -167,19 +176,337 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
     return "Elle est loin de tes goûts.";
   }
   /* Ta préférée est un « pôle » (une bière choisie au départ vaut une note de 4) ; une forme devinée compte moitié moins. */
-  function calculer(biere, gout, preferee) {
-    var moyen = ressemblance(biere.valeurs, gout), score = moyen, proche = null;
-    if (preferee) {
-      proche = ressemblance(biere.valeurs, preferee.valeurs);
-      var part = 0.7 * borne((4 - 2.5) / (4.5 - 2.5), 0, 1) * (preferee.estimee ? 0.5 : 1);
-      score = Math.max(score, (1 - part) * moyen + part * proche);
-    }
+  /* LA VERSION WEB (2026-11-10, pour ses amis sur Android) : tes notes sont des pôles, comme dans l'app (`Match.calculer`) —
+     la bière aimée (≥ 3,5) qui la tire le plus haut, jusqu'à 70 % du match pour une note ≥ 4,5 ; près d'une bière notée sous
+     2,5, il descend. UNE BIÈRE NE SE COMPARE PAS À ELLE-MÊME (notée, elle reste une prédiction). Une sans-alcool notée ne
+     tire que les autres sans-alcool. */
+  function calculer(biere, gout, preferee, notes) {
+    var moyen = ressemblance(biere.valeurs, gout), score = moyen, pole = null, pire = null;
+    notes = notes || {};
+    var poles = [];
+    if (preferee && !notes[preferee.slug]) poles.push({ slug: preferee.slug, nom: preferee.nom, valeurs: preferee.valeurs,
+                                                         estimee: preferee.estimee, note: 4, depart: true });
+    valeursNotes(notes).forEach(function (x) { if (!x.sa || biere.sa) poles.push(x); });
+    poles = poles.filter(function (x) { return x.slug !== biere.slug; });
+    poles.forEach(function (x) {
+      if (x.note < 3.5) return;
+      var proche = ressemblance(biere.valeurs, x.valeurs);
+      var part = 0.7 * borne((x.note - 2.5) / (4.5 - 2.5), 0, 1) * (x.estimee ? 0.5 : 1);
+      var s = (1 - part) * moyen + part * proche;
+      if (!pole || s > pole.score) pole = { x: x, proche: proche, score: s };
+    });
+    if (pole) score = Math.max(score, pole.score);
+    poles.forEach(function (x) {
+      if (x.note >= 2.5) return;
+      var baisse = (2.5 - x.note) / 2.5 * Math.max(0, ressemblance(biere.valeurs, x.valeurs) - 45);
+      score -= baisse;
+      if (!pire || baisse > pire.baisse) pire = { x: x, baisse: baisse };
+    });
     if (biere.estimee) score = 50 + 0.5 * (score - 50);
     var pc = Math.round(borne(score, 0, 100)), phrase;
-    if (preferee && preferee.slug === biere.slug) phrase = "C'est ta bière préférée : elle a tiré ta forme vers elle.";
-    else if (proche != null && proche >= 65 && proche >= moyen) phrase = "Proche de " + preferee.nom + ", ta bière préférée.";
+    if (preferee && preferee.slug === biere.slug && !notes[biere.slug]) phrase = "C'est ta bière préférée : elle a tiré ta forme vers elle.";
+    else if (pire && pire.baisse >= 6) phrase = "Proche de " + pire.x.nom + ", que tu as notée " + nombreFr(pire.x.note) + ".";
+    else if (pole && pole.proche >= 65 && pole.proche >= moyen)
+      phrase = "Proche de " + pole.x.nom + (pole.x.depart ? ", ta bière préférée." : ", que tu as notée " + nombreFr(pole.x.note) + ".");
     else phrase = expliquer(pc, biere.valeurs, gout);
     return { pc: pc, phrase: phrase };
+  }
+
+  // ——— TES NOTES : gardées dans le navigateur, comme le test (rien ne part) ———
+  var CLE_NOTES = "houbla.notes.1";
+  function tesNotes() {
+    try { var n = JSON.parse(localStorage.getItem(CLE_NOTES)); return n && typeof n === "object" ? n : {}; }
+    catch (e) { return {}; }
+  }
+  function garderNotes(n) { try { localStorage.setItem(CLE_NOTES, JSON.stringify(n)); } catch (e) { /* navigation privée */ } }
+  function valeursNotes(notes) { return Object.keys(notes || {}).map(function (k) { return notes[k]; }); }
+  /* Ta forme avec tes notes, comme `CouchesDeTaForme` de l'app : UNE VOIX PAR FAMILLE (la moyenne de tes notes dedans, jamais
+     le nombre bu) ; une famille aimée (≥ 3,5) dessine son lobe (prudence : 1 bière 60 %, 2 → 80 %, 3 et plus 100 %) ; ta
+     forme est l'enveloppe des lobes, mêlée à tes réponses du test (`Gout.poidsDepart` 1,5) ; une bière notée sous 2,5
+     l'éloigne (`Gout.recul` 0,15). Sans note : exactement le résultat du test. Les sans-alcool ne comptent pas. */
+  function tonGoutAvecNotes(s, notes) {
+    var depart = tonGout(s.positions, s.preferee);
+    var liste = valeursNotes(notes).filter(function (x) { return !x.sa; });
+    if (!liste.length) return depart;
+    var familles = H.familles || {}, parFamille = {};
+    liste.forEach(function (x) { var fam = familles[x.type]; if (fam) (parFamille[fam] = parFamille[fam] || []).push(x); });
+    var bruts = [];
+    Object.keys(parFamille).forEach(function (fam) {
+      var b = parFamille[fam], somme = 0;
+      b.forEach(function (x) { somme += x.note; });
+      var forme = [], w = 0, i;
+      for (i = 0; i < N; i++) forme.push(0);
+      b.forEach(function (x) {
+        if (x.note <= 2.5) return;
+        var a = (x.note - 2.5) / 2.5;
+        for (var k = 0; k < N; k++) forme[k] += a * x.valeurs[k];
+        w += a;
+      });
+      if (w > 0) bruts.push({ note: somme / b.length, preuves: b.length, forme: forme.map(function (v) { return v / w; }) });
+    });
+    var aimes = bruts.filter(function (b) { return b.note >= 3.5; });
+    var haut = Math.max.apply(null, aimes.map(function (b) { return b.note; }).concat([3.5]));
+    var couches = aimes.map(function (b) {
+      var e = (b.note - 2.5) / Math.max(haut - 2.5, 0.25) * (b.preuves >= 3 ? 1 : b.preuves >= 2 ? 0.8 : 0.6);
+      return b.forme.map(function (v) { return v * e; });
+    });
+    var env = depart.slice();
+    if (couches.length) {
+      var aime = 0;
+      liste.forEach(function (x) { aime += Math.max(0, (x.note - 2.5) / 2.5); });
+      var d = 1.5 / (1.5 + aime);
+      for (var k = 0; k < N; k++) {
+        var p = 0;
+        couches.forEach(function (c) { p += Math.pow(Math.max(c[k], 0), 6); });
+        env[k] = d * depart[k] + (1 - d) * Math.pow(p, 1 / 6);
+      }
+    }
+    liste.forEach(function (x) {
+      if (x.note >= 2.5) return;
+      var force = (2.5 - x.note) / 2.5;
+      for (var k = 0; k < N; k++) env[k] = Math.max(0, env[k] - 0.15 * force * (x.valeurs[k] - env[k]));
+    });
+    return borne5(env);
+  }
+  /* « Ta note a tiré ta forme vers… » (`Gout.ceQueTaNoteAChange`), en mots, jamais en chiffres. */
+  function deLArticle(i) {
+    var a = ARTICLE[i];
+    if (a.indexOf("le ") === 0) return "du " + a.slice(3);
+    if (a.indexOf("les ") === 0) return "des " + a.slice(4);
+    return "de " + a;
+  }
+  function ceQueTaNoteAChange(avant, apres, note, sa) {
+    if (sa) return "Les bières sans alcool ne changent pas ta forme : elles restent à part.";
+    var ecarts = [];
+    for (var i = 0; i < N; i++) ecarts.push(i);
+    var vers = trier(ecarts.filter(function (i) { return apres[i] - avant[i] >= 0.12; }), function (i) { return apres[i] - avant[i]; }).slice(0, 2);
+    var loin = trier(ecarts.filter(function (i) { return avant[i] - apres[i] >= 0.12; }), function (i) { return avant[i] - apres[i]; }).slice(0, 2);
+    var n = nombreFr(note);
+    if (!vers.length && !loin.length) return "Ta note de " + n + " a à peine bougé ta forme : elle tient compte de toutes tes notes.";
+    var versMots = liste(vers.map(function (i) { return ARTICLE[i]; })), loinMots = liste(loin.map(deLArticle));
+    if (note < 2.5 && loin.length) return "Ta note de " + n + " a éloigné ta forme " + loinMots + (vers.length ? ", vers " + versMots : "") + ".";
+    if (!vers.length) return "Ta note de " + n + " a éloigné ta forme " + loinMots + ".";
+    return "Ta note de " + n + " a tiré ta forme vers " + versMots + (loin.length ? ", loin " + loinMots : "") + ".";
+  }
+
+  // ——— NOTER UNE BIÈRE (l'appli web, 2026-11-10), comme « Le niveau » du check-in de l'app ———
+  /* L'écran s'ouvre VIDE (aucune note proposée, « Valider » grisé) ; on fait monter la bière avec le doigt, par quarts de
+     point (de 0,5 à 5) ; sa forme apparaît dans la bière à mesure qu'elle monte. Puis ta forme glisse de l'ancienne à la
+     nouvelle (l'ancienne en pointillé) et une phrase dit ce que ta note a changé. La note reste dans le navigateur.
+     « Changer » garde la date de la première note (comme « Changer ma note » dans l'app). */
+  var ICONE_NOTER = '<svg width="14" height="18" viewBox="0 0 14 18" aria-hidden="true"><path d="M2 2h10l-1.2 13.2Q10.6 16.5 9.3 16.5H4.7'
+    + 'Q3.4 16.5 3.2 15.2Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M2.6 8.5h8.8l-.6 6.6'
+    + 'Q10.6 15.5 9.6 15.5H4.4Q3.4 15.5 3.2 14.6Z" fill="currentColor"/></svg>';
+  var verresDessines = 0;
+  function petitVerre(robe, note, contour) {
+    var id = "pv" + (++verresDessines), h = 2 + 17 * (1 - (note || 0) / 5);
+    return '<svg class="petit-verre" width="18" height="24" viewBox="0 0 18 24" aria-hidden="true"><clipPath id="' + id + '">'
+      + '<path d="M2.5 2h13l-1.4 18.2Q13.9 22 12.2 22H5.8Q4.1 22 3.9 20.2Z"/></clipPath><rect width="18" height="24" fill="#fff" clip-path="url(#'
+      + id + ')"/>' + (note ? '<rect y="' + f(h + 1) + '" width="18" height="24" fill="' + robe + '" clip-path="url(#' + id + ')"/>' : "")
+      + '<path d="M2.5 2h13l-1.4 18.2Q13.9 22 12.2 22H5.8Q4.1 22 3.9 20.2Z" fill="none" stroke="' + (contour || "rgba(17,17,20,.35)")
+      + '" stroke-width="1.4"' + (note ? "" : ' stroke-dasharray="2.5 2.5"') + ' stroke-linejoin="round"/></svg>';
+  }
+  var MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+  function quand(le) {
+    if (!le) return "";
+    var d = new Date(le + "T12:00:00"), auj = new Date();
+    auj.setHours(12, 0, 0, 0);
+    var jours = Math.round((auj - d) / 864e5);
+    if (jours <= 0) return "aujourd'hui";
+    if (jours === 1) return "hier";
+    return "le " + d.getDate() + (d.getDate() === 1 ? "er" : "") + " " + MOIS[d.getMonth()]
+      + (d.getFullYear() !== auj.getFullYear() ? " " + d.getFullYear() : "");
+  }
+  function aujourdhui() {
+    var d = new Date();
+    return d.getFullYear() + "-" + ("0" + (d.getMonth() + 1)).slice(-2) + "-" + ("0" + d.getDate()).slice(-2);
+  }
+  function ouvrirNote(b, ensuite) {
+    var s = lire(), notes = tesNotes(), avant = notes[b.slug] || null;
+    var ecran = el("div", "ecran-test ecran-note sort");
+    ecran.setAttribute("role", "dialog");
+    ecran.setAttribute("aria-modal", "true");
+    ecran.setAttribute("aria-label", "Noter " + b.nom);
+    doc.body.appendChild(ecran);
+    var focusAvant = doc.activeElement, debordement = doc.documentElement.style.overflow;
+    doc.documentElement.style.overflow = "hidden";
+    requestAnimationFrame(function () { requestAnimationFrame(function () { ecran.classList.remove("sort"); }); });
+    var sombre = lum(b.robe) < 0.18;
+    ecran.innerHTML = '<div class="vue note">'
+      + '<div class="haut-test" style="color:' + TEXTE + '"><span class="rang">' + (avant ? "Changer ta note" : "Ta note") + "</span>"
+      + '<button type="button" class="fermer" aria-label="Fermer" style="background-color:rgba(0,0,0,.06)">' + croix(TEXTE) + "</button></div>"
+      + '<div class="note-tete"><p class="note-nom">' + esc(b.nom) + '</p><p class="note-sous">'
+      + esc([b.brasserie, b.type].filter(Boolean).join(" · ")) + "</p>"
+      + '<div class="note-chiffre"><span class="n">–</span><small>sur 5</small></div>'
+      + '<p class="note-aide">Fais monter la bière avec le doigt.</p></div>'
+      + '<div class="note-zone" role="slider" tabindex="0" aria-label="Ta note, sur 5" aria-valuemin="0.5" aria-valuemax="5" data-premier>'
+      + '<svg aria-hidden="true"><defs><clipPath id="dans-note"><path class="liq-clip"/></clipPath></defs>'
+      + '<path class="forme-vide" fill="none" stroke="rgba(17,17,20,.16)" stroke-width="2" stroke-dasharray="5 6" stroke-linejoin="round"/>'
+      + '<g class="grad-dehors" fill="rgba(17,17,20,.32)" stroke="rgba(17,17,20,.16)"></g>'
+      + '<path class="liq-arriere" fill="' + b.robe + '" fill-opacity=".5"/><path class="liq" fill="' + b.robe + '"/>'
+      + '<g clip-path="url(#dans-note)"><path class="forme-pleine" fill="' + b.forme + '"/>'
+      + '<g class="bulles" fill="' + b.forme + '"></g>'
+      + '<g class="grad-dedans" fill="' + b.sur + '" fill-opacity=".7" stroke="' + b.sur + '" stroke-opacity=".3"></g></g></svg></div>'
+      + '<div class="note-bas"><button type="button" class="confirmer valider" disabled>Valider</button>'
+      + (avant ? '<button type="button" class="lien retirer">Retirer ma note</button>' : "") + "</div>"
+      + "</div>";
+    var vue = ecran.querySelector(".vue"), zone = ecran.querySelector(".note-zone"), svg = zone.querySelector("svg");
+    var chiffre = ecran.querySelector(".note-chiffre .n"), aide = ecran.querySelector(".note-aide");
+    var valider = ecran.querySelector(".valider");
+    var pVide = svg.querySelector(".forme-vide"), pPleine = svg.querySelector(".forme-pleine"), pLiq = svg.querySelector(".liq");
+    var pArr = svg.querySelector(".liq-arriere"), pClip = svg.querySelector(".liq-clip"), gBulles = svg.querySelector(".bulles");
+    var gDehors = svg.querySelector(".grad-dehors"), gDedans = svg.querySelector(".grad-dedans");
+    var note = null, niveau = new Glisse(0), bouge = -9, fini = false, apres = null;
+    var BULLES = [];
+    for (var k = 0; k < 9; k++) BULLES.push({ x: (k * 0.37 + 0.11) % 1, v: 26 + (k * 17) % 30, r: 1.6 + (k * 7) % 4 * 0.5, d: k * 0.29 });
+    function mesures() {
+      var l = zone.clientWidth || 360, h = zone.clientHeight || 400;
+      return { l: l, h: h, plein: h - 34 };
+    }
+    function yDe(n, g) { return g.h - borne(n, 0, 5) / 5 * g.plein; }
+    function graduations(g) {
+      var d = "";
+      for (var k = 1; k <= 5; k++) {
+        var y = yDe(k, g);
+        d += '<text x="20" y="' + f(y + 4.5) + '" font-size="13" font-weight="700" stroke="none">' + k + "</text>"
+          + '<path d="M34 ' + f(y) + "H50" + '" stroke-width="1.5" stroke-linecap="round" fill="none"/>';
+      }
+      return d;
+    }
+    var dernierePlace = "";
+    function dessiner(t) {
+      var g = mesures();
+      var place = g.l + "x" + g.h;
+      if (place !== dernierePlace) {
+        dernierePlace = place;
+        svg.setAttribute("viewBox", "0 0 " + g.l + " " + g.h);
+        svg.setAttribute("width", g.l);
+        svg.setAttribute("height", g.h);
+        gDehors.innerHTML = gDedans.innerHTML = graduations(g);
+      }
+      var tt = t == null ? 0 : t, n = niveau.valeur(), y = yDe(n, g);
+      var age = maintenant() - bouge, amp = n <= 0.01 ? 0 : 3.5 + 9 * Math.exp(-age / 0.7);
+      var surface = function (hauteur, sens, periode, decalage, dy) {
+        var d = "M0 " + (g.h + 2);
+        for (var x = 0; x <= g.l + 4; x += 4) {
+          var tour = 2 * Math.PI * (x / 195 - sens * tt / periode) + decalage;
+          d += "L" + x + " " + f(y + dy + hauteur * (0.78 * Math.sin(tour) + 0.22 * Math.sin(2.3 * tour + 1.1)));
+        }
+        return d + "L" + (g.l + 4) + " " + (g.h + 2) + "Z";
+      };
+      var devant = surface(amp, 1, 6, 0, 0);
+      pLiq.setAttribute("d", devant);
+      pClip.setAttribute("d", devant);
+      pArr.setAttribute("d", surface(amp * 0.9, -1, 9, 1.3, -4));
+      var r = Math.min(g.l * 0.4, g.h * 0.36);
+      var forme = chemin(b.valeurs, g.l / 2 + 12, g.h * 0.5, r, t, 0);
+      pVide.setAttribute("d", forme);
+      pPleine.setAttribute("d", forme);
+      /* Des bulles montent dans la bière, surtout quand elle bouge. */
+      var force = borne((amp - 3.5) / 9, 0, 1), html = "";
+      if (force > 0.03 && !CALME) {
+        BULLES.forEach(function (u) {
+          var profondeur = g.h - y;
+          if (profondeur < 20) return;
+          var by = g.h - ((tt * u.v + u.d * 200) % profondeur);
+          html += '<circle cx="' + f(60 + u.x * (g.l - 80)) + '" cy="' + f(by) + '" r="' + u.r + '" opacity="' + (0.6 * force).toFixed(2) + '"/>';
+        });
+      }
+      gBulles.innerHTML = html;
+    }
+    var horloge = vivant(vue, 60, dessiner);
+    function poser(n, vite) {
+      n = borne(Math.round(n * 4) / 4, 0.5, 5);
+      if (n === note) return;
+      if (note != null && navigator.vibrate) { try { navigator.vibrate(6); } catch (e) { /* rien */ } }
+      note = n;
+      bouge = maintenant();
+      niveau.aller(n, vite ? 0.18 : 0.6, vite ? lisse : function (p) { return ressort(p, 0.14); });
+      chiffre.textContent = nombreFr(n);
+      zone.setAttribute("aria-valuenow", String(n));
+      zone.setAttribute("aria-valuetext", nombreFr(n) + " sur 5");
+      valider.disabled = false;
+      aide.classList.add("partie");
+      lancer();
+    }
+    if (avant) poser(avant.note, false);
+    /* Le doigt : la bière suit sa hauteur, n'importe où dans la zone. */
+    var appui = null;
+    function depuisDoigt(e, vite) {
+      var g = mesures(), haut = zone.getBoundingClientRect().top;
+      poser((g.h - (e.clientY - haut)) / g.plein * 5, vite);
+    }
+    zone.addEventListener("pointerdown", function (e) {
+      if (apres) return;
+      appui = e.pointerId;
+      try { zone.setPointerCapture(e.pointerId); } catch (x) { /* rien */ }
+      depuisDoigt(e, false);
+    });
+    zone.addEventListener("pointermove", function (e) { if (appui === e.pointerId) depuisDoigt(e, true); });
+    zone.addEventListener("pointerup", function (e) { if (appui === e.pointerId) appui = null; });
+    zone.addEventListener("pointercancel", function (e) { if (appui === e.pointerId) appui = null; });
+    zone.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowUp" || e.key === "ArrowRight") { e.preventDefault(); poser((note || 0) + 0.25, false); }
+      else if (e.key === "ArrowDown" || e.key === "ArrowLeft") { e.preventDefault(); poser((note || 0.75) - 0.25, false); }
+    });
+    function fermer() {
+      if (fini) return;
+      fini = true;
+      ecran.classList.add("sort");
+      doc.removeEventListener("keydown", clavier);
+      setTimeout(function () {
+        oublier(horloge);
+        if (apres) oublier(apres);
+        ecran.remove();
+        doc.documentElement.style.overflow = debordement;
+        if (focusAvant && focusAvant.focus) focusAvant.focus({ preventScroll: true });
+        if (ensuite) ensuite();
+      }, CALME ? 0 : 460);
+    }
+    function clavier(e) { if (e.key === "Escape") fermer(); }
+    doc.addEventListener("keydown", clavier);
+    ecran.querySelector(".fermer").addEventListener("click", fermer);
+    var retirer = ecran.querySelector(".retirer");
+    if (retirer) retirer.addEventListener("click", function () {
+      var n = tesNotes();
+      delete n[b.slug];
+      garderNotes(n);
+      fermer();
+    });
+    valider.addEventListener("click", function () {
+      if (note == null || apres) return;
+      var n = tesNotes(), avantNotes = JSON.parse(JSON.stringify(n));
+      n[b.slug] = { slug: b.slug, nom: b.nom, brasserie: b.brasserie || "", type: b.type || "", robe: b.robe, sur: b.sur,
+                    forme: b.forme, valeurs: b.valeurs, estimee: !!b.estimee, sa: !!b.sa, note: note,
+                    le: avant && avant.le ? avant.le : aujourdhui(), t: avant && avant.t ? avant.t : Date.now() };
+      garderNotes(n);
+      if (!s) { fermer(); return; }
+      montrerApres(tonGoutAvecNotes(s, avantNotes), tonGoutAvecNotes(s, n));
+    });
+    /* Après : la bière se vide, ta forme glisse de l'ancienne à la nouvelle. */
+    function montrerApres(gAvant, gApres) {
+      niveau.aller(0, 0.7);
+      bouge = maintenant();
+      var bloc = el("div", "note-apres");
+      bloc.innerHTML = '<svg viewBox="0 0 184 184" width="210" height="210" aria-hidden="true">'
+        + '<path class="avant" fill="none" stroke="rgba(17,17,20,.4)" stroke-width="2" stroke-dasharray="4 5" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>'
+        + '<path class="maintenant" fill="' + b.robe + '" fill-opacity=".22" stroke="' + TEXTE + '" stroke-width="2.6" vector-effect="non-scaling-stroke" stroke-linejoin="round"/></svg>'
+        + '<p class="note-phrase monte" style="--i:2">' + esc(ceQueTaNoteAChange(gAvant, gApres, note, b.sa)) + "</p>"
+        + '<p class="note-legende monte" style="--i:3"><i></i>en pointillé, ta forme avant cette note</p>';
+      ecran.querySelector(".note-tete").appendChild(bloc);
+      vue.classList.add("fini");
+      ecran.querySelector(".rang").textContent = "Ta forme";
+      valider.textContent = "Terminé";
+      valider.classList.add("termine");
+      if (retirer) retirer.hidden = true;
+      var pA = bloc.querySelector(".avant"), pM = bloc.querySelector(".maintenant"), glisse = new Glisse(0);
+      setTimeout(function () { glisse.aller(1, 1.4); lancer(); }, CALME ? 0 : 450);
+      apres = vivant(bloc, 30, function (t) {
+        pA.setAttribute("d", forme184(gAvant, t, 1.3));
+        pM.setAttribute("d", forme184(melange(gAvant, gApres, glisse.valeur()), t, 1.3));
+      });
+      valider.onclick = fermer;
+    }
   }
 
   // ——— Ce que le navigateur garde (rien ne part) ———
@@ -218,7 +545,7 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
       .then(function (j) {
         index = j.bieres.map(function (x) {
           return { slug: x[0], nom: x[1], brasserie: x[2], type: x[3], robe: "#" + x[4], sur: "#" + x[5], forme: "#" + x[6],
-                   valeurs: x[7].split(",").map(Number), estimee: !!x[8], conseil: !!x[9],
+                   valeurs: x[7].split(",").map(Number), estimee: !!x[8], conseil: !!x[9], sa: !!x[10],
                    cle: plat(x[1] + " " + x[2]), cleNom: plat(x[1]) };
         });
         return index;
@@ -257,13 +584,14 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
   }
   /* Trois bières pour toi, comme « Pour toi » dans l'app : les plus proches de toi parmi celles qu'elle conseillerait, une
      par brasserie et une par type ; ta couleur = la robe de la plus proche (« ta couleur » de l'app). */
-  function pourToi(gout, pref) {
+  function pourToi(gout, pref, notes, combien) {
     if (!index) return null;
-    var cand = index.filter(function (b) { return b.conseil && (!pref || b.slug !== pref.slug); })
-      .map(function (b) { return { b: b, m: calculer(b, gout, pref) }; })
+    notes = notes || {};
+    var cand = index.filter(function (b) { return b.conseil && !b.sa && !notes[b.slug] && (!pref || b.slug !== pref.slug); })
+      .map(function (b) { return { b: b, m: calculer(b, gout, pref, notes) }; })
       .sort(function (a, z) { return z.m.pc - a.m.pc || a.b.nom.localeCompare(z.b.nom); });
     var bieres = [], brasseries = {}, types = {};
-    for (var i = 0; i < cand.length && bieres.length < 3; i++) {
+    for (var i = 0; i < cand.length && bieres.length < (combien || 3); i++) {
       var b = cand[i].b;
       if (brasseries[b.brasserie] || types[b.type]) continue;
       brasseries[b.brasserie] = types[b.type] = true;
@@ -442,7 +770,7 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
       section.querySelector(".plein").addEventListener("click", function () { ouvrirTest(); });
       return;
     }
-    var gout = tonGout(s.positions, s.preferee);
+    var notesA = tesNotes(), gout = tonGoutAvecNotes(s, notesA);
     section.innerHTML = '<div class="match-haut"><div><span class="petit-titre">Ta forme de goût</span><p class="mots-forme">'
       + esc(distinctifs(gout).join(" · ")) + '</p></div><svg viewBox="0 0 184 184" width="104" height="104" aria-hidden="true">'
       + '<path class="t" stroke="' + TEXTE + '" stroke-width="3" stroke-linejoin="round"/></svg></div>'
@@ -453,7 +781,7 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
     vivantCarte = vivant(section.querySelector("svg"), 30, function (t) { tt.setAttribute("d", forme184(gout, t, 1.3)); });
     section.querySelector(".refaire").addEventListener("click", function () { ouvrirTest(); });
     chargerIndex().then(function () {
-      var choix = pourToi(gout, s.preferee);
+      var choix = pourToi(gout, s.preferee, notesA);
       tt.setAttribute("fill", couleurDe(choix).robe);
       liste.innerHTML = choix.bieres.map(ligneBiere).join("");
     }, function () { liste.innerHTML = '<p class="vide">Les bières ne sont pas venues : vérifie ta connexion.</p>'; });
@@ -461,8 +789,34 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
 
   // ——— La page : celle d'une bière, ou l'accueil de houbla.fr ———
   var biere = lireJSON("donnees-biere");
-  var ACCUEIL = !biere && doc.body.classList.contains("accueil");
+  var ACCUEIL = !biere && (APP || doc.body.classList.contains("accueil"));
   if (!biere && !ACCUEIL) return;
+
+  window.HoublaOutils = {
+    H: H, CALME: CALME, TEXTE: TEXTE, FOND: FOND, N: N,
+    lire: lire, ouvrirTest: ouvrirTest, ouvrirNote: ouvrirNote, tesNotes: tesNotes, garderNotes: garderNotes,
+    valeursNotes: valeursNotes, tonGoutAvecNotes: tonGoutAvecNotes, calculer: calculer, ressemblance: ressemblance,
+    chargerIndex: chargerIndex, chercher: chercher, pourToi: pourToi, distinctifs: distinctifs, couleurDe: couleurDe,
+    ligneBiere: ligneBiere, forme184: forme184, chemin: chemin, vague: vague, vivant: vivant, oublier: oublier,
+    lancer: lancer, Glisse: Glisse, lisse: lisse, ressort: ressort, maintenant: maintenant, melange: melange,
+    esc: esc, el: el, croix: croix, compter: compter, nombreFr: nombreFr, lum: lum, plat: plat, f: f, lerp: lerp,
+    borne: borne, index: function () { return index; }
+  };
+  /* Une page de bière ouverte depuis l'appli : « Houblà » ramène à l'appli (en arrière si on en vient), et ce qui parle
+     de l'app pour iPhone se tait. */
+  if (biere && DANS_APPLI) {
+    doc.body.classList.add("dans-appli");
+    var marque = doc.querySelector(".carte .marque");
+    if (marque) {
+      marque.href = "/appli/";
+      marque.innerHTML = '<svg width="10" height="17" viewBox="0 0 10 17" aria-hidden="true"><path d="M8.5 1.5 2 8.5l6.5 7" fill="none" '
+        + 'stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>Houblà';
+      marque.classList.add("retour-appli");
+      marque.addEventListener("click", function (e) {
+        if (doc.referrer.indexOf(location.origin + "/appli") === 0 && history.length > 1) { e.preventDefault(); history.back(); }
+      });
+    }
+  }
 
   /* Sa forme ondule, sans arrêt, lentement. */
   var dessin = doc.querySelector(".roue .dessin");
@@ -498,7 +852,8 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
       section.querySelector(".plein").addEventListener("click", function () { ouvrirTest(); });
       return;
     }
-    var gout = tonGout(s.positions, s.preferee), m = calculer(biere, gout, s.preferee);
+    var notes = tesNotes(), maNote = notes[biere.slug];
+    var gout = tonGoutAvecNotes(s, notes), m = calculer(biere, gout, s.preferee, notes);
     /* La carte, petite : la bière et toi, comme l'app. Là où ton trait passe dans une bière sombre, il prend sa couleur claire. */
     var dedans = biere.sombre;
     section.innerHTML = '<div class="match-haut"><div><span class="petit-titre">Ton match</span><div class="chiffre"><span class="n">'
@@ -510,8 +865,13 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
         + biere.forme + '" stroke-width="3.4" stroke-linejoin="round"/>' : "") + "</svg></div>"
       + '<p class="phrase">' + esc(m.phrase) + "</p>"
       + '<div class="legende" style="--forme-carte:' + biere.robe + ';--contour-carte:' + biere.contour + '"><span><i class="plein-rond"></i>' + esc(biere.nom) + '</span><span><i class="trait-rond"></i>Toi</span></div>'
+      + (maNote ? '<div class="ta-note-ligne">' + petitVerre(biere.robe, maNote.note) + '<span><b>Ta note · ' + nombreFr(maNote.note)
+        + '</b><small>' + esc(quand(maNote.le)) + '</small></span><button class="lien changer" type="button">Changer</button></div>'
+        : '<button class="second noter" type="button">' + ICONE_NOTER + 'Noter cette bière</button>')
       + '<div class="liens"><button class="lien envoyer" type="button">Envoyer mon résultat</button>'
       + '<button class="lien refaire" type="button">Refaire le test</button></div>';
+    var noter = section.querySelector(".noter, .changer");
+    noter.addEventListener("click", function () { ouvrirNote(biere, function () { carteDuTest(false); }); });
     var bb = section.querySelector(".b"), tt = section.querySelector(".t");
     var bc = section.querySelector(".bc"), ti = section.querySelector(".ti");
     vivantCarte = vivant(section.querySelector("svg"), 30, function (t) {
@@ -579,7 +939,8 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
         oublier(horloge);
         ecran.remove();
         doc.documentElement.style.overflow = debordement;
-        if (voir) {
+        if (APP) doc.dispatchEvent(new CustomEvent("houbla:test"));
+        else if (voir) {
           carteDuTest(true);
           section.scrollIntoView({ behavior: CALME ? "auto" : "smooth", block: "center" });
         } else if (avant && avant.focus) avant.focus({ preventScroll: true });
@@ -864,7 +1225,7 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
     // ——— Ton match : la robe de la bière monte comme au scan, le chiffre monte avec elle, puis les formes ———
     function vueResultat() {
       if (ACCUEIL) return vueForme();
-      var gout = tonGout(etat.positions, etat.preferee), m = calculer(biere, gout, etat.preferee);
+      var notesR = tesNotes(), gout = tonGoutAvecNotes(etat, notesR), m = calculer(biere, gout, etat.preferee, notesR);
       var pref = etat.preferee && etat.preferee.slug !== biere.slug ? etat.preferee : null;
       var apres = function (i) { return ' style="animation-delay:' + (520 + i * 70) + 'ms"'; };
       /* Les formes : la bière et toi ; « Ta préférée » fait glisser ton trait jusqu'à la forme de ta préférée. */
@@ -947,7 +1308,7 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
 
     // ——— L'accueil : ta forme monte dans ta couleur, puis trois bières pour toi ———
     function vueForme() {
-      var gout = tonGout(etat.positions, etat.preferee), choix = pourToi(gout, etat.preferee), c = couleurDe(choix);
+      var notesF = tesNotes(), gout = tonGoutAvecNotes(etat, notesF), choix = pourToi(gout, etat.preferee, notesF), c = couleurDe(choix);
       var apres = function (i) { return ' style="animation-delay:' + (520 + i * 70) + 'ms"'; };
       var v = el("div", "vue resultat");
       v.style.setProperty("--robe", c.robe);
@@ -965,8 +1326,9 @@ window.HOUBLA={"base":[2,0.7,0.8,0.8,0.9,1.5,0.8,2.6,2.5,0.5,0.7,0.3,0.6,0.5],"q
         + (choix ? '<p class="res-titre monte"' + apres(4) + ">Trois bières pour toi</p>"
            + '<div class="res-tuiles monte"' + apres(5) + ">" + choix.bieres.map(tuileBiere).join("") + "</div>"
            : '<p class="res-phrase monte"' + apres(4) + ">Les bières ne sont pas venues : vérifie ta connexion, puis refais le test.</p>")
-        + '<p class="res-app monte"' + apres(6) + ">Avec Houblà, chaque bière que tu scannes te dit à quel point elle te ressemble. Et chaque note que tu donnes affine ta forme. Bientôt sur iPhone.</p>"
-        + '<button type="button" class="confirmer voir monte"' + apres(7) + " data-premier>C'est noté</button>"
+        + '<p class="res-app monte"' + apres(6) + ">" + (APP ? "Scanne une bière ou cherche-la : Houblà te dit si elle va te plaire, et pourquoi. Note-la : ta forme bouge."
+           : "Avec Houblà, chaque bière que tu scannes te dit à quel point elle te ressemble. Et chaque note que tu donnes affine ta forme. Bientôt sur iPhone.") + "</p>"
+        + '<button type="button" class="confirmer voir monte"' + apres(7) + " data-premier>" + (APP ? "C'est parti" : "C'est noté") + "</button>"
         + '<button type="button" class="lien refaire monte"' + apres(8) + ">Refaire le test</button>"
         + '<p class="prive monte"' + apres(9) + ">Tes réponses restent dans ton navigateur : rien n'est envoyé.</p>"
         + "</div></div>"
